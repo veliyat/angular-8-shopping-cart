@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## JSON Server (Server side)
 
-Run `npm i -g json-server`. In your current folder, download [this file](https://drive.google.com/file/d/1bzwrYrX_Ex0teisTLv1MlHKSiPgPtbAp/view) and then run `json-server db.json`. Open `http://localhost:3000/` to verify if it worked.
+Run `npm i -g json-server`. In your current folder, download [this file](https://drive.google.com/file/d/1bzwrYrX_Ex0teisTLv1MlHKSiPgPtbAp/view) and then run `json-server db.json`. Navigate to `http://localhost:3000/` to verify if it worked.
 
 ## Code scaffolding
 
